@@ -7,7 +7,7 @@ The model used is the log-log model with dummy variables and continuous variable
 The model shows how prices is affect by the square feet of living,square feet of the lot ,bedrooms ,floors, waterfront, view, condition, grade of the house
 
 ## Business understanding
-Many features of a property affect their prices .We need to determine whether physical aspect of the property in King County region on how they ffect their prices of the .The main purpose is to predict salesprice of property based on its features.This information can be used by homeowners,real estate agents and real estate brokers to predict the price of the property based on its features .Homeowners in KingCounty can use it to assess the value of their property. 
+Many features of a property affect their prices .We need to determine what physical aspect of the property in King County region on how they affect their prices of the .The main purpose is to predict salesprice of property based on its features.This information can be used by homeowners,real estate agents and real estate brokers to predict the price of the property based on its features .Homeowners in KingCounty can use it to assess the value of their property. 
 ## Data understanding
 The data used is from kc_house_data.csv.The data shows the features of houses i.e bathrooms,bedrooms,their size and prices
 ## Modelling
